@@ -1,0 +1,17 @@
+%%-*- mode: erlang -*-
+{application, control4,
+ [
+  {description, "control4"},
+  {vsn, "1"},
+  {modules, []},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  crypto,
+                  mochiweb,
+                  webmachine
+                 ]},
+  {mod, { control4_app, []}},
+  {env, []}
+ ]}.

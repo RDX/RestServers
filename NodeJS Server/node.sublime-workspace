@@ -1,0 +1,377 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"app",
+				"_linklist.append(list, item);"
+			],
+			[
+				"node",
+				"node.https.get: Snippet: HTTPS Get"
+			],
+			[
+				"res",
+				"repl.writer(obj, showHidden, depth, colors);"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "node_modules/C4Communicator/lib/communicator.js",
+			"settings":
+			{
+				"buffer_size": 3931,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 136.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nburr/projects/mine/node_c4/node_modules/C4Communicator/lib/communicator.js",
+		"/Users/nburr/projects/mine/node_c4/app.js",
+		"/Users/nburr/projects/mine/node_c4/node_modules/C4Communicator/node_modules/xml2js/lib/xml2js.js",
+		"/Users/nburr/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-keymap",
+		"/Users/nburr/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Default (OSX).sublime-mousemap",
+		"/Users/nburr/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/nburr/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/nburr/projects/mine/node_c4/public/socket_test.html",
+		"/Users/nburr/Downloads/starter-kit/README.md",
+		"/Users/nburr/projects/node_c4/app.js",
+		"/Users/nburr/projects/node_c4/routes/index.js",
+		"/Users/nburr/projects/node_c4/node_modules/C4Communicator/lib/communicator.js",
+		"/Users/nburr/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/nburr/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/Users/nburr/Library/Application Support/Sublime Text 2/Packages/Default/Global.sublime-settings",
+		"/Users/nburr/Documents/Control4/Director/Drivers/MEDIAPLAYER_IP_PLEX9.c4i",
+		"/Users/nburr/projects/node_c4/node_modules/C4Communicator/index.js",
+		"/Users/nburr/projects/node_c4/node_modules/C4Communicator/lib/directorClient.js",
+		"/Users/nburr/projects/node_c4/node_modules/C4Communicator/lib/client.js",
+		"/Users/nburr/projects/node_c4/node_modules/express/lib/http.js",
+		"/Users/nburr/projects/node_c4/node_modules/C4Communicator/lib/DirectorClient.js",
+		"/Users/nburr/projects/node_c4/node_modules/C4Communicator/package.json",
+		"/Users/nburr/projects/node_c4/communicator.js",
+		"/Users/nburr/projects/node_c4/node_modules/xml2json/xml2json.js",
+		"/Users/nburr/projects/node_c4/node_modules/xml2json/index.js",
+		"/Users/nburr/projects/node_c4/routes/xml2json.js",
+		"/Users/nburr/projects/node_c4/socket.js",
+		"/Users/nburr/projects/nme-bunnymark/README.md",
+		"/Users/nburr/projects/Haxe/build.hxml ",
+		"/Users/nburr/projects/Haxe/test.hx",
+		"/Users/nburr/projects/Haxe/compile.hxml ",
+		"/Users/nburr/control4_sr250.c4i",
+		"/Users/nburr/Documents/Control4/Director/Drivers/mediaplayer_ip_xbmc4.c4i",
+		"/Users/nburr/Downloads/Driverworks_WOL.c4i",
+		"/Applications/MAMP/htdocs/other/videos/panam/G00000000.srt",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/plugins/osmf/src/UplynkPlugin.as",
+		"/Users/nburr/Desktop/cc/G00001B4D.srt",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/debug/osmf/src/OSMFTest.as",
+		"/Applications/XAMPP/xamppfiles/htdocs/videos/panam/G00000000.srt",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/production/uplynk/index.html",
+		"/Users/nburr/projects/uplynk/beam/flapple/build",
+		"/Users/nburr/Desktop/cc/G00000000.srt",
+		"/Users/nburr/projects/uplynk/beam/flapple/apconvert/gmon.out",
+		"/Users/nburr/projects/Transcoder/src/com/jeket/media/H264.as",
+		"/Applications/eclipse/dropins/fb-4_5-plugin-encoded.link",
+		"/Applications/eclipse/dropins/fdt.link",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/debug/osmf/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/plugins/KalturaPlugin/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/debug/testapp/src/flapple.as",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/debug/testapp/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/production/Player/src/Player.as",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/plugins/osmf/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/plugins/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/demos/uplynk/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/debug/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/demos/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/players/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/core/makefile",
+		"/Users/nburr/projects/uplynk/beam/flapple/osmf/UplynkPlugin.as",
+		"/Users/nburr/projects/MacShairport/MacShairport.xcodeproj/project.pbxproj",
+		"/Users/nburr/Downloads/kdp_v3.5.7.4/kdp3Lib/src/fl/core/UIComponent.as",
+		"/Users/nburr/Dev/director/start.sh",
+		"/usr/lib/haxe/lib/nme/3,0,1/samples/15-UI/Sample.hx",
+		"/usr/lib/haxe/lib/nme/3,0,1/samples/17-Browser/Sample.hx",
+		"/usr/lib/haxe/lib/nme/3,0,1/samples/common/Scrollbar.hx",
+		"/usr/lib/haxe/lib/nme/3,0,1/haxe/Timer.hx",
+		"/Users/nburr/Dev/HaxeTest/Actuate Example.nmml",
+		"/Users/nburr/Downloads/video-js/README.markdown",
+		"/Users/nburr/Downloads/sample1_500kbps.f4v.m3u8",
+		"/Users/nburr/projects/uplynk/beam/flapple/demos/uplynk/uplynk.as",
+		"/Users/nburr/Downloads/ffmpeg-0.8.2/README",
+		"/Users/nburr/Downloads/playbook-as3-lib/src/com/lib/playbook/views/PageViewStack.as"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/nburr/projects/mine/node_c4",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"processResp",
+			"project",
+			"logger",
+			"info",
+			"67",
+			"cache",
+			"C4",
+			"console",
+			"HTTPServer",
+			"sys",
+			"env",
+			"Short",
+			"cmd",
+			"volume",
+			"stop",
+			"STOP",
+			"restart",
+			"CommandInterpreter",
+			"play",
+			"other_Commands",
+			"AudioNextLanguage",
+			"event",
+			"volume",
+			"player",
+			"port",
+			"Web Server Port",
+			"32400",
+			"COMMAND_MAP",
+			"cmd",
+			"cmds",
+			"tuner",
+			"XBMC",
+			"g_LastXMLResult",
+			"LoadClientList",
+			"GenerateHTTPReques",
+			"GenerateHTTPRequest",
+			"receive",
+			"help",
+			"processResults",
+			"duration",
+			"DirtyEvent",
+			"DirtyEvent.ANNOUNCE",
+			"onNetStatus",
+			"sendNetStatus",
+			"scp",
+			"init_write",
+			"my_field",
+			"server",
+			"cp static/* release/",
+			"g_Receivebuffer",
+			"print",
+			"Plex Media Server Port",
+			"onconnec",
+			"Debug F",
+			"Debug M",
+			"GET /",
+			"5001",
+			"idbinding",
+			"executecommand",
+			"suffix",
+			"guide",
+			"Properties",
+			"properties",
+			"OnConnectionStatusChanged",
+			"ReceivedFromNetwork",
+			"6001",
+			"2001",
+			"5001",
+			"digital_m",
+			"c4i",
+			"Digital",
+			"Digital Media Storage",
+			"art",
+			"cover",
+			"load",
+			"g_Receivebuffer",
+			"Debug Feedback",
+			"Settings",
+			"MISC SETTINGS",
+			"port",
+			"5002",
+			"vers",
+			"sign",
+			"plane",
+			"boot",
+			"room",
+			" ",
+			"g_ChannelBuffer",
+			"processDigits",
+			"red",
+			"input",
+			"irsection",
+			"usb",
+			"rc",
+			"resize",
+			"resize(",
+			"stageVideoStateChange",
+			"toggle",
+			"videoStateChange",
+			"stageVideoInUse",
+			"videostatech",
+			"available",
+			"inited",
+			"played",
+			"toggle",
+			"attach",
+			"videoRect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"="
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "node_modules/C4Communicator/lib/communicator.js",
+					"settings":
+					{
+						"buffer_size": 3931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1126,
+								1126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 397.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 27.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.01953125,
+	"status_bar_visible": true
+}
